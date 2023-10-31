@@ -5,8 +5,10 @@ import About from '../components/About'
 export default function Homepage() {
   return (
     <React.Fragment>
-        <Landing/>
-        <About/>
+        <div className="mx-32 xs:mx-6">
+          <Landing/>
+          <About/>
+        </div>
     </React.Fragment>
   )
 }

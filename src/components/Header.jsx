@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Navbar = () => {
     return(
-        <header className="mx-12 bg-transparent top-0 flex mt-3 justify-end sticky">
+        <header className="mx-12 bg-transparent top-0 mt-3 fixed right-0">
             <div className="flex justify-between items-center max-w-6xl p-3">
                 <ul className="flex gap-4">
                     <Link to="/">

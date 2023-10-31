@@ -3,7 +3,9 @@
 module.exports = {
   content: [
     './src/components/Header.jsx',
-    './src/pages/Landing.jsx'
+    './src/components/Landing.jsx',
+    './src/components/About.jsx',
+    './src/pages/Homepage.jsx'
   ],
   theme: {
     fontFamily: {
@@ -11,27 +13,19 @@ module.exports = {
     },
     textColor: {
       'wild': '#949B38',
-      'rodeo' : '#8D7660'
+      'rodeo' : '#8D7660',
+      'darkerwild' : '#949b38',
     },
-    extends : {
-      fontWeight: {
-        hairline: '100',
-        extralight: '200',
-        light: '300',
-        normal: '400',
-        medium: '500',
-        semibold: '600',
-        bold: '700',
-        extrabold: '800',
-        black: '900',
-      },
-      textColor: {
-        'wild': '#949B38',
-      },
+    extend: {
       backgroundColor: {
-        'transparent': 'transparent', // Add a transparent option
-      },
-    },
+        'wild' : '#D1d779',
+        'wilddark': '#b3ba57',
+        'lightwild': '#E5EB90',
+        'darkerwild' : '#949b38',
+        'rodeo' : '#8D7660',
+        
+      }
+    }
   },
   plugins: [
     require('flowbite/plugin')
