@@ -12,6 +12,7 @@ module.exports = {
       'poppins': ['Poppins', 'sans-serif'],
     },
     textColor: {
+      'white': '#FFFFFF',
       'wild': '#949B38',
       'rodeo' : '#8D7660',
       'darkerwild' : '#949b38',

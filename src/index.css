@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    font-size: 100%;
+    height: 100%;
+}
+
 body{
-    background-image: linear-gradient(30deg, #E5EB90, #c9bd90, #cdca85, #d1d779);
+    background-image: linear-gradient(45deg, #c4b09a, #c9bd90, #cdca85, #d1d779);
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
@@ -11,3 +16,4 @@ body{
     font-family: "Graindeur";
     src: local('Graindeur'), url("../public/font/graindeur.otf") format('otf');
 };
+
