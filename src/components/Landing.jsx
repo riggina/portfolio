@@ -5,29 +5,25 @@ import {PiMouseSimpleThin} from 'react-icons/pi';
 export default function Landing() {
     return(
         <>
-            <div className="p-3 mt-24 mx-32 xs:mx-6">
-                <div className="py-1 px-7 max-w-max md:px-5 sm:px-3 border border-black rounded-full">
-                    <h4 className="font-poppins text-sml">Gina's Portfolio</h4>
+            <div className="p-3 my-24 max-w-max">
+                <div className="w-40 py-1 px-7 md:px-5 sm:px-3 border border-black rounded-full mx-32">
+                    <h4 className="font-poppins text-sml ">Gina's Portfolio</h4>
                 </div>
-                <div className="relative max-w-md mt-5">
-                    <h1 className="pb-2 font-poppins font-semibold text-7xl text-slate-950 leading-30 tracking-wide">Designing the Bridge Between</h1>
-                    <h1 className="font-['Graindeur'] text-7xl absolute bottom-36 left-3/4 text-wild">Ideas</h1>
-                    <h1 className="font-poppins font-bold text-7xl text-slate-950 leading-30 tracking-wide">and</h1>
-                    <h1 className="font-['Graindeur'] text-7xl text-rodeo">Interaction</h1>
+                <div className="mt-16 flex flex-col justify-center text-center mx-auto">
+                {/* absolute bottom-36 left-3/4 */}
+                    <span className="font-poppins font-bold text-7xl text-slate-950 leading-30 tracking-wide opacity-50">Create the Bridge Between</span>
+                    <div className="my-3">
+                        <span className="font-graindeur text-6xl text-darkerwild">Ideas</span>
+                        <span className="font-poppins font-bold text-2xl text-slate-950 leading-30 tracking-wide mx-2 opacity-50">and</span>
+                        <span className="font-graindeur text-6xl text-rodeo">Interaction</span>
+                    </div>
+                    <p className="mt-3 font-poppins mx-96 xxs:mx-auto">Lorem ipsum dolor sit amet consectetur. Adipiscing pellentesque orci integer elit massa nisl rhoncus turpis dolor. Adipiscing pellentesque orci integer elit massa nisl rhoncus turpis dolor</p>
                 </div>
-                <div className="flex items-center absolute bottom-2/4 right-1 rotate-90 tracking-wider">
-                    <span className="font-poppins text-white mr-4 text-sm">Scroll Down</span>
-                    <PiMouseSimpleThin size={30} color={'#FFFFFF'} stroke-width="2" className="-rotate-90"/>
+                <div className="flex items-center absolute bottom-1/2 right-1 rotate-90 tracking-wide">
+                    <span className="font-poppins mr-4 text-xs">Scroll Down</span>
+                    <PiMouseSimpleThin size={25} color={'#000000'} stroke-width="2" className="-rotate-90"/>
                 </div>
             </div>
-            {/* <div className="absolute -left-7 -bottom-16 w-60 h-60 bg-lightwild rounded-full opacity-20"/>
-            <div className="absolute -left-7 top-2/3 w-36 h-36 bg-wild rounded-full opacity-70"/> */}
-            <div className="flex justify-evenly items-center my-12 mx-auto max-w-lg">
-                <h2 className="font-poppins text-lg">Front End Developer</h2>
-                <div className="h-2 w-2 bg-black rounded-lg"/>
-                <h2 className="font-poppins text-lg">UI/UX Designer</h2>
-            </div>
-            
         </>
     )
 };

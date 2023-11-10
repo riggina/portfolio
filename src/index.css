@@ -12,6 +12,7 @@ body{
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 @font-face {
     font-family: "Graindeur";
     src: local('Graindeur'), url("../public/font/graindeur.otf") format('otf');
