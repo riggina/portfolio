@@ -8,7 +8,6 @@ export default function Homepage() {
   return (
     <React.Fragment>
         <div className="">
-         
           <Landing/>
           <About/>
           <Projects/>
