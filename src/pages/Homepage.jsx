@@ -2,6 +2,7 @@ import React from 'react'
 import Landing from '../components/sections/Landing'
 import About from '../components/sections/About'
 import Projects from '../components/sections/Projects'
+import Contact from '../components/sections/Footer'
 
 
 export default function Homepage() {
@@ -11,6 +12,7 @@ export default function Homepage() {
           <Landing/>
           <About/>
           <Projects/>
+          <Contact/>
         </div>
     </React.Fragment>
   )

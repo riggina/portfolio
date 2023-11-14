@@ -1,4 +1,4 @@
-import {React} from 'react';
+import React from 'react';
 import jh from '../../assets/jh.jpg'
 import Card from '../partials/Card';
 import {BsGithub} from 'react-icons/bs';
@@ -10,7 +10,7 @@ export default function Projects() {
     <>
       <div className='relative'>
         <div className='my-16' >
-          <h1 className='text-7xl font-unbounded text-judgedark opacity-50'>Project My Project My Project My </h1>
+          <h1 className='text-7xl font-unbounded text-judgedark opacity-90'>Project My Project My Project My </h1>
         </div>
         <div className='mx-auto max-w-6xl grid grid-cols-4 xs:grid-cols-2 gap-6 group'>
           <Card imgSrc={jh}>
@@ -19,10 +19,10 @@ export default function Projects() {
               Ipsum quis inventore, consequuntur corrupti maiores aspernatur iure? 
               Quia ullam ipsam facere molestiae sit commodi deserunt, repellendus saepe alias eaque ducimus id.</p>
             <div className='space-x-2 mt-4 flex justify-center'>
-              <button className='btn p-1 bg-rodeo rounded-md'>
+              <button className='btn p-1 bg-black/20 rounded-md'>
                 <BsGithub/> 
               </button>
-              <button className='btn p-1 bg-rodeo rounded-md'>
+              <button className='btn p-1 bg-black/20 rounded-md'>
                 <VscPreview/> 
               </button>
             </div>
@@ -33,10 +33,10 @@ export default function Projects() {
               Ipsum quis inventore, consequuntur corrupti maiores aspernatur iure? 
               Quia ullam ipsam facere molestiae sit commodi deserunt, repellendus saepe alias eaque ducimus id.</p>
             <div className='space-x-2 mt-4 flex justify-center'>
-              <button className='btn p-1 bg-rodeo rounded-md'>
+              <button className='btn p-1 bg-black/20 rounded-md'>
                 <BsGithub/> 
               </button>
-              <button className='btn p-1 bg-rodeo rounded-md'>
+              <button className='btn p-1 bg-black/20 rounded-md'>
                 <VscPreview/> 
               </button>
             </div>

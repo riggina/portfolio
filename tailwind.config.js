@@ -2,12 +2,14 @@
 
 module.exports = {
   content: [
-    './src/components/Header.jsx',
-    './src/components/Landing.jsx',
-    './src/components/About.jsx',
-    './src/components/Projects.jsx',
-    './src/components/Card.jsx',
-    './src/components/StickyProfile.jsx',
+    './src/components/sections/Header.jsx',
+    './src/components/sections/Landing.jsx',
+    './src/components/sections/About.jsx',
+    './src/components/sections/Projects.jsx',
+    './src/components/sections/StickyProfile.jsx',
+    './src/components/sections/Footer.jsx',
+    './src/components/partials/Card.jsx',
+    './src/components/partials/Form.jsx',
     './src/pages/Homepage.jsx'
   ],
   theme: {
