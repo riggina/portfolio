@@ -1,7 +1,7 @@
 import React from 'react'
-import Landing from '../components/Landing'
-import About from '../components/About'
-import Projects from '../components/Projects'
+import Landing from '../components/sections/Landing'
+import About from '../components/sections/About'
+import Projects from '../components/sections/Projects'
 
 
 export default function Homepage() {

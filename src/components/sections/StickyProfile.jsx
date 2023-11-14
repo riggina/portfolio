@@ -1,6 +1,6 @@
 import React from 'react'
-import circle from '../assets/circle.png';
-import MiddleImage from '../assets/jh.jpg'
+import circle from '../../assets/circle.png';
+import MiddleImage from '../../assets/jh.jpg'
 
 export default function StickyProfile() {
 

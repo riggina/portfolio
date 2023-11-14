@@ -1,6 +1,6 @@
 import {React} from 'react';
-import jh from '../assets/jh.jpg'
-import Card from './Card.jsx';
+import jh from '../../assets/jh.jpg'
+import Card from '../partials/Card';
 import {BsGithub} from 'react-icons/bs';
 import {VscPreview} from 'react-icons/vsc';
 
