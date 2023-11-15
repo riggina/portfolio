@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "UI/UX Design Mobile Application BEATS",
+      "description": "This was the description of the project",
+      "titleLink": "Github",
+      "link": "github.com/riggina/dss_hybrid_method"
+    },
+    {
+      "id": 2,
+      "title": "Design Mobile Application BEATS",
+      "description": "This was the description of the project",
+      "titleLink": "Github",
+      "link": "github.com/riggina/dss_hybrid_method"
+    }
+  ]
+}

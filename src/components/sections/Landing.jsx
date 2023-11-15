@@ -20,8 +20,8 @@ export default function Landing() {
                                     d="M336.2,130.05C261.69,118,16.52,122,20.65,244.29c4.17,123,484.3,299.8,734.57,108.37,244-186.65-337.91-311-546.54-268.47" 
                                     fill="none" 
                                     stroke="#E5EB90" 
-                                    stroke-miterlimit="10" 
-                                    stroke-width="8" />
+                                    strokeMiterlimit="10" 
+                                    strokeWidth="8" />
                             </svg>
                         </span>
                     </h1>
@@ -35,7 +35,7 @@ export default function Landing() {
                 </div>
                 <div className="flex items-center absolute bottom-1/2 right-1 rotate-90 tracking-wide">
                     <span className="font-poppins mr-4 text-xs">Scroll Down</span>
-                    <PiMouseSimpleThin size={25} color={'#000000'} stroke-width="2" className="-rotate-90"/>
+                    <PiMouseSimpleThin size={25} color={'#000000'} strokeWidth="2" className="-rotate-90"/>
                 </div>
             </div>
         </>
