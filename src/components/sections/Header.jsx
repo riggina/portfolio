@@ -1,20 +1,19 @@
 import React from "react";
-import { Link } from 'react-router-dom'
 
 const Navbar = () => {
     return(
         <header className="mx-12 bg-transparent flex justify-end mt-2">
             <div className="flex justify-between items-center max-w-6xl p-3">
                 <ul className="flex gap-4">
-                    <Link to="/">
+                    <a href="/">
                         <li className='font-poppins hidden sm:inline text-slate-950 hover:text-gray-100'>Home</li>
-                    </Link>
-                    <Link to="/#aboutme">
+                    </a>
+                    <a href="/#aboutme">
                         <li className='font-poppins hidden sm:inline text-slate-950 hover:text-gray-100'>About Me</li>
-                    </Link>
-                    <Link to="/#project">
+                    </a>
+                    <a href="/#project">
                         <li className='font-poppins hidden sm:inline text-slate-950 hover:text-gray-100'>Projects</li>
-                    </Link>
+                    </a>
                 </ul>
             </div>
         </header>
