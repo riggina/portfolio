@@ -2,17 +2,86 @@
   "projects": [
     {
       "id": 1,
-      "title": "UI/UX Design Mobile Application BEATS",
+      "title": "Decision Support System Hybrid Method Web Based",
       "description": "This was the description of the project",
-      "titleLink": "Github",
-      "link": "github.com/riggina/dss_hybrid_method"
+      "titleLink": "Website",
+      "link": "https://spk-rekomendasi-rumah.000webhostapp.com/",
+      "titleLink2": "Github",
+      "link2": "https://github.com/riggina/dss_hybrid_method",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/SPK.png?alt=media&token=f0edcad0-3c72-41c6-8c56-93299012a09a",
+      "tools": "Laravel 9, MySQL, Blade, Figma"
     },
     {
       "id": 2,
-      "title": "Design Mobile Application BEATS",
+      "title": "SENAMM BKPPM 2023",
+      "description": "This was the description of the project",
+      "titleLink": "Website",
+      "link": "https://senamm-bkpmm.itk.ac.id/",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/senammm.png?alt=media&token=c19cb251-2801-4dd3-bf2c-2609759fc09e",
+      "tools": "HTML, CSS, React.js, Bootstrap, and Figma"
+    },
+    {
+      "id": 3,
+      "title": "Design User Interface SEMINAR 2023",
+      "description": "This was the description of the project",
+      "titleLink": "UI Design",
+      "link": "https://dribbble.com/shots/23157877-SEMINAR-WEBSITE",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/Landing%20(2).png?alt=media&token=fed741b4-4588-45a1-aeb3-456ab1cb0c78",
+      "tools": "Figma"
+    },
+    {
+      "id": 4,
+      "title": "HMIF CARE MOBILE APPLICATION",
       "description": "This was the description of the project",
       "titleLink": "Github",
-      "link": "github.com/riggina/dss_hybrid_method"
+      "link": "https://github.com/fikriichsan/hmif_care_mobile/tree/master",
+      "titleLink2": "UI Design",
+      "link2": "https://github.com/fikriichsan/hmif_care_mobile/tree/master",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/HMIF.png?alt=media&token=fe704e48-a00c-4ebf-8aa1-bb21ed714974",
+      "tools": "Flutter, MongoDB, Express.js, Figma"
+    },
+    {
+      "id": 5,
+      "title": "Design UI/UX Mobile Application",
+      "description": "This was the description of the project",
+      "titleLink": "UI Design",
+      "link": "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/BEATS.png?alt=media&token=e5efa9f1-93c8-431d-8a35-24384820cfb6",
+      "tools": "Figma"
+    },
+    {
+      "id": 6,
+      "title": "SEOLA",
+      "description": "This was the description of the project",
+      "titleLink": "Website",
+      "link": "https://seola.netlify.app/",
+      "titleLink2": "Github",
+      "link2": "https://github.com/Tech4Impact-21-22/seola",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/Cover%20Seola.png?alt=media&token=10b97cc6-2f21-4118-bd67-b4c229f597cf",
+      "tools": "HTML, CSS, React.js, Bootstrap, MongoDB, Express.js, Figma"
+    },
+    {
+      "id": 7,
+      "title": "MOCOFLIP",
+      "description": "This was the description of the project",
+      "titleLink": "Website",
+      "link": "https://mocoflip.netlify.app/",
+      "titleLink2": "Github",
+      "link2": "https://github.com/Tech4Impact-21-22/MocoFlip",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/mocoflip.png?alt=media&token=21ca41ea-81af-4b70-9a72-47e538301ef1",
+      "tools": "HTML, CSS, React.js, Bootstrap"
+    },
+    {
+      "id": 8,
+      "title": "Portfolio",
+      "description": "This was the description of the project",
+      "titleLink": "Website",
+      "link": "https://rigginaoceania.netlify.app/",
+      "titleLink2": "Github",
+      "link2": "https://github.com/riggina/portfolio",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/portfolio.png?alt=media&token=23081f71-10e3-4561-9026-abb4166ad9d6",
+      "tools": "HTML, React.js, TailwindCSS"
     }
+
   ]
 }
