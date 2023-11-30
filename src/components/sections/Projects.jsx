@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 export default function Projects() {
   return (
     <>
-      <div className='relative'>
+      <div className='relative' id='project'>
         <div className='my-16' >
           <h1 className='text-7xl font-unbounded text-judgedark opacity-90'>Project My Project My Project My </h1>
         </div>

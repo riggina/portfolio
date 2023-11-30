@@ -31,7 +31,8 @@ export default function Landing() {
                         <span className="font-unbounded font-bold text-2xl text-slate-950 leading-30 tracking-wide mx-2 opacity-50">and</span>
                         <span className="font-graindeur text-6xl text-rodeo">Interaction</span>
                     </div>
-                    <p className="mt-3 font-poppins xl:mx-96 sm:mx-32">Lorem ipsum dolor sit amet consectetur. Adipiscing pellentesque orci integer elit massa nisl rhoncus turpis dolor. Adipiscing pellentesque orci integer elit massa nisl rhoncus turpis dolor</p>
+                    <p className="mt-3 font-poppins xl:mx-96 sm:mx-32">
+This website is created as a portfolio site, serving as a repository for the projects I have undertaken throughout my professional journey.</p>
                 </div>
                 <div className="flex items-center absolute bottom-1/2 right-1 rotate-90 tracking-wide">
                     <span className="font-poppins mr-4 text-xs">Scroll Down</span>

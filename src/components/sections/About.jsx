@@ -14,10 +14,10 @@ export default function About() {
                 <div className='relative px-5 pt-5 w-11/12'>
                     <img src={profile} alt=""/>
                 </div>
-                <div className="flex gap-3 flex-col justify-center">
+                <div className="flex gap-5 flex-col justify-center">
                     <h2 className='text-3xl font-poppins font-semibold '>Hi! I'am </h2>
                     <h className="text-5xl font-unbounded font-bold text-flint tracking-wide">Riggina Adriani Oceania</h>
-                    <p className='text-justify text-md font-poppins'>Lorem ipsum dolor sit amet consectetur. Adipiscing pellentesque orci integer elit massa nisl rhoncus turpis dolor. Dictum varius rutrum enim consectetur nulla ultrices porttitor odio. Sem odio sed mauris vitae ut eu ut nulla sed. Penatibus ipsum sit purus feugiat amet vestibulum consectetur purus et. Integer rhoncus rutrum tortor enim amet. Amet vel pulvinar suspendisse tortor.</p>
+                    <p className='text-justify text-md font-poppins'>Recent graduate in Informatics from the Kalimantan Institute of Technology with a keen interest in pursuing a career in Web Development. Passionate about creating innovative and user-friendly web solutions, equipped with strong programming and problem-solving skills. Eager to contribute to dynamic projects and continue learning in the ever-evolving field of web development.</p>
                 </div>
             </div>
         </div>

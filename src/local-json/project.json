@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Decision Support System Hybrid Method Web Based",
-      "description": "This was the description of the project",
+      "description": "Hybrid CORPAS ARAS DSS streamlines house selection through of objective criteria for swift decision-making.",
       "titleLink": "Website",
       "link": "https://spk-rekomendasi-rumah.000webhostapp.com/",
       "titleLink2": "Github",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "title": "SENAMM BKPPM 2023",
-      "description": "This was the description of the project",
+      "description": "A website that stores seminar information and serves as a platform for seminar registration.",
       "titleLink": "Website",
       "link": "https://senamm-bkpmm.itk.ac.id/",
       "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/senammm.png?alt=media&token=c19cb251-2801-4dd3-bf2c-2609759fc09e",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Design User Interface SEMINAR 2023",
-      "description": "This was the description of the project",
+      "description": "Design for the user interface of a seminar website",
       "titleLink": "UI Design",
       "link": "https://dribbble.com/shots/23157877-SEMINAR-WEBSITE",
       "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/Landing%20(2).png?alt=media&token=fed741b4-4588-45a1-aeb3-456ab1cb0c78",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "title": "HMIF CARE MOBILE APPLICATION",
-      "description": "This was the description of the project",
+      "description": "A mobile application offering consultation services for students.",
       "titleLink": "Github",
       "link": "https://github.com/fikriichsan/hmif_care_mobile/tree/master",
       "titleLink2": "UI Design",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "title": "Design UI/UX Mobile Application",
-      "description": "This was the description of the project",
+      "description": "A mobile application that offers Health, Safety, and Environment (HSE) services for companies.",
       "titleLink": "UI Design",
       "link": "",
       "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/BEATS.png?alt=media&token=e5efa9f1-93c8-431d-8a35-24384820cfb6",
@@ -52,7 +52,7 @@
     {
       "id": 6,
       "title": "SEOLA",
-      "description": "This was the description of the project",
+      "description": "Web application as an online learning platform for the field of arts.",
       "titleLink": "Website",
       "link": "https://seola.netlify.app/",
       "titleLink2": "Github",
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "title": "MOCOFLIP",
-      "description": "This was the description of the project",
+      "description": "Book provider application.",
       "titleLink": "Website",
       "link": "https://mocoflip.netlify.app/",
       "titleLink2": "Github",
@@ -74,7 +74,7 @@
     {
       "id": 8,
       "title": "Portfolio",
-      "description": "This was the description of the project",
+      "description": "A website portfolio serve as a repository for the projects",
       "titleLink": "Website",
       "link": "https://rigginaoceania.netlify.app/",
       "titleLink2": "Github",
