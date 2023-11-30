@@ -9,7 +9,6 @@ module.exports = {
     './src/components/sections/StickyProfile.jsx',
     './src/components/sections/Footer.jsx',
     './src/components/partials/Card.jsx',
-    './src/components/partials/Form.jsx',
     './src/pages/Homepage.jsx'
   ],
   theme: {
