@@ -1,12 +1,12 @@
 import React from 'react';
 import circle from '../../assets/circle.png';
-import MiddleImage from '../../assets/jh.jpg'
+import MiddleImage from '../../assets/sticky.png'
 
 export default function StickyProfile() {
 
   return (
     <>
-      <a href='#footer'>
+      <a href='#contactme'>
       <div className=''>
         <img src={circle} alt='hire me' className='fixed z-10 w-40 right-10 bottom-10 animate-spin-slow'/>
         <img src={MiddleImage}
