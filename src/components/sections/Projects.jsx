@@ -8,10 +8,10 @@ export default function Projects() {
   return (
     <>
       <div className='relative' id='project'>
-        <div className='my-16' >
-          <h1 className='text-7xl font-unbounded text-judgedark opacity-90'>Project My Project My Project My </h1>
+        <div className='my-5 sm:my-16' >
+          <h1 className='text-xl sm:text-7xl font-unbounded text-judgedark opacity-90 text-center'>My Projects</h1>
         </div>
-        <div className='mx-auto max-w-7xl grid grid-cols-4 xs:grid-cols-2 gap-6 group'>
+        <div className='max-w-8xl flex flex-row flex-wrap gap-6 mx-auto justify-center'>
         {project.projects && project.projects.map(({ id, title, description,titleLink, link, link2, titleLink2, image, tools}) => (
           <Card imgSrc={image} key={id}>
             <h3 className='text-md font-bold font-unbounded mb-2 text-center'>{title}</h3>
@@ -34,7 +34,6 @@ export default function Projects() {
             <p className='text-xs font-poppins text-center'>{tools}</p>
         </Card>
         ))}
-          
         </div>
       </div>
     </>

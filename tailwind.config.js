@@ -50,6 +50,9 @@ module.exports = {
         'graindeur' : ['Graindeur'],
         'unbounded': ['Unbounded', 'sans-serif']
       },
+      fontSize: {
+        'xxs': '0.50rem'
+      },
       fontWeight: {
         'ebold': 900
       },
