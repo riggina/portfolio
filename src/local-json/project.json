@@ -2,6 +2,17 @@
   "projects": [
     {
       "id": 1,
+      "title": "Real Estate Website",
+      "description": "Project from Udemy Full Stack MERN Estate.",
+      "titleLink": "Website",
+      "link": "https://estateparadise.vercel.app/",
+      "titleLink2": "Github",
+      "link2": "https://github.com/riggina/mern-estate",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-698e1.appspot.com/o/estate.png?alt=media&token=eb2c1df9-a8d1-4abf-b0d8-7f04eb664480",
+      "tools": "React.js, Tailwind CSS, MongoDB, Express.js, JWT, Firebase, Google OAuth"
+    },
+    {
+      "id": 1,
       "title": "Decision Support System Hybrid Method Web Based",
       "description": "Hybrid CORPAS ARAS DSS streamlines house selection through of objective criteria for swift decision-making.",
       "titleLink": "Website",
